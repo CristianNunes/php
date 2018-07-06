@@ -1,5 +1,7 @@
 <?php
 
-echo "teste local";
+echo "teste local novo servidor<br>";
+
+echo "123";
 
 ?>
