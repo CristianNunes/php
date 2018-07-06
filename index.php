@@ -2,6 +2,6 @@
 
 echo "teste local novo servidor<br>";
 
-echo "123";
+echo "123456";
 
 ?>
